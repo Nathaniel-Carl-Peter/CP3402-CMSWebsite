@@ -36,6 +36,7 @@ This also go back to the benefits of cloud computing, a field of decent demand i
     -Security hardening(setting up Firewalls)
 
 As for Wordpress comes with following suchs as:
+    -Installing WordPress
     -Learning to set up Wordpress and configuring
     -Learning basic PHP, CSS and HTML
     -SEO and analytics integration
