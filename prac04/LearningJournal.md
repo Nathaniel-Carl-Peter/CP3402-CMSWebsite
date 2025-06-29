@@ -18,9 +18,9 @@ In this journal, I will discussing on Deployment process and .
 
 The objective is to implement a dynamic function on the website. To create a dynamic function (like an active comment section).
 
--Database is required. A database was already created for the website already so a quick little test page was created to see
--A comment forum is created to demonstrate in which the database would store the activity on the DataBase.
--Javascript or PHP would be best to implement but PHP would be used for data handling for the backend.
+- Database is required. A database was already created for the website already so a quick little test page was created to see
+- A comment forum is created to demonstrate in which the database would store the activity on the DataBase.
+- Javascript or PHP would be best to implement but PHP would be used for data handling for the backend.
 
 ## Career/Employability/Learning Insights
 
