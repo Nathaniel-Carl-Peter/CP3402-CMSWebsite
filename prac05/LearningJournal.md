@@ -23,6 +23,7 @@ on WordPress.
 - VSCode for the coding aspect (PHP, CSS, Learning Journal)
 - Word for Documentation
 - https://developer.wordpress.org/themes/advanced-topics/child-themes/
+- https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-menu?resume=false&u=2223545
 
 ### The process starts off with the setup of a child folder
 
@@ -38,7 +39,7 @@ on WordPress.
 ## Career/Employability/Learning Insights
 
 The practical taught me one how the task can be used in employability
-- Non-destructive editing: From my understanding, using a child-theme would be the equivalant of creating a new layer in a painting program to ensure no permanent change occur to the product.
+- Non-destructive editing: From my understanding, using a child-theme would be the equivalant of creating a new layer in a painting program to ensure no permanent change occur to the product. (Basically it's best to make changes to the child rather than the parent for the sake of flexibility)
 - Understanding more of CSS and Php and how it is used in CMS
 - Greate for freelancing work.
 - The ability of modifying layouts
