@@ -1,0 +1,22 @@
+@import 'variables';
+@import 'mixins';
+@import 'bits';
+
+
+html {
+    font-family: $base-font;
+}
+
+
+
+
+#ipv4 span{
+	font-size: 24px;
+	display: inline-block;
+}
+
+
+
+#subnet_mask{
+font-size: 24px;
+}

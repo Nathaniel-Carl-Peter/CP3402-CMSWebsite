@@ -1,0 +1,33 @@
+#ipv4 .host_bits, #ipv4 .subnet_class_bits {
+  font-size: 20px;
+  padding: 0.2rem;
+  border-radius: 3px;
+}
+
+#ipv4 span {
+  font-size: 24px;
+  display: inline-block;
+}
+#ipv4 .subnet_class_bits {
+  color: burlywood;
+  background-color: darkmagenta;
+  font-weight: lighter;
+}
+#ipv4 .host_bits {
+  color: blueviolet;
+  background-color: gold;
+  font-weight: bold;
+}
+
+html {
+  font-family: "Courier New", Courier, monospace;
+}
+
+#ipv4 span {
+  font-size: 24px;
+  display: inline-block;
+}
+
+#subnet_mask {
+  font-size: 24px;
+}/*# sourceMappingURL=style.css.map */

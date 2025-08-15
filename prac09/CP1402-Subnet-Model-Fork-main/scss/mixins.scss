@@ -1,0 +1,10 @@
+@mixin bit-box($color, $bg, $weight: normal){
+    color: $color;
+    background-color: $bg;
+    font-weight: $weight;
+}
+
+@mixin big-text($size: 24px){
+    font-size: $size;
+    display: inline-block;
+}

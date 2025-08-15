@@ -1,0 +1,32 @@
+%bit-style {
+  font-size: 20px;
+  padding: 0.2rem;
+  border-radius: 3px;
+}
+
+#ipv4{
+	span{
+		// font-size: 24px;
+		// display: inline-block;
+        @include big-text();
+	}
+    
+    .subnet_class_bits {
+        @extend %bit-style;
+        @include bit-box(burlywood, darkmagenta, lighter);
+    }
+
+
+	// .subnet_class_bits{
+	//     @extend %bit-style;
+    //     @include bit-box(red, lightgreen);
+	// }
+
+
+
+    .host_bits {
+        @extend %bit-style;
+        @include bit-box(blueviolet, gold, bold);
+    }
+
+}
